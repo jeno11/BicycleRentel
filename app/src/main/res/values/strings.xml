@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BicycleRentel</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register_your_details">Register Your Details</string>
+    <string name="full_name">Full Name</string>
+    <string name="matric_number">Matric Number</string>
+    <string name="inasis">Inasis</string>
+    <string name="course" />
+    <string name="cancel">Cancel</string>
+    <string name="id_number">ID number</string>
+    <string name="nic_passport_number">NIC/Passport Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="todo">TODO</string>
+    <string name="tap_the_list_to_book_the_bicycle">Tap the list to book the bicycle</string>
+    <string name="rent_my_bicycle">Rent my Bicycle</string>
+    <string name="rent_a_bicycle">Rent a bicycle</string>
+</resources>
