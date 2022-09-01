@@ -89,7 +89,7 @@ public class SignUp extends AppCompatActivity {
 
                     //get the user input
                     UserDetails userDetails = new UserDetails(
-                            taskSnapshot.getDownloadUrl().toString(),
+                            taskSnapshot.getMetadata().getReference().getDownloadUrl().toString(),
                             fn.getText().toString(),
                             eAddress.getText().toString(),
                             uPass.getText().toString(),
@@ -115,7 +115,7 @@ public class SignUp extends AppCompatActivity {
                     })
                     .addOnProgressListener(new OnProgressListener<UploadTask.TaskSnapshot>() {
                         @Override
-                        public void onProgress(@NonNull UploadTask.TaskSnapshot snapshot) {
+                        public void onProgress(@NonNull UploadTask.TaskSnapshot taskSnapshot) {
                             //show upload progress
                             double progress = (100 * taskSnapshot.getBytesTransferred()) / taskSnapshot.getTotalByteCount();
                             dialog.setMessage("Uploaded" + (int) progress + "%");

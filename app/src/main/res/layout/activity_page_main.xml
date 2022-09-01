@@ -126,7 +126,7 @@
             android:id="@+id/rentBike2"
             android:layout_gravity="center"
             android:layout_marginEnd="5dp"
-            android:onClick="rent_bike"
+            android:onClick="book_bike"
             android:text="@string/rent_a_bicycle" />
 
     </LinearLayout>

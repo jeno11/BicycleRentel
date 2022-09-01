@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/andr_project/app/src/main/res/layout/activity_book_bicycle.xml" value="0.1" />
         <entry key="..\:/andr_project/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/andr_project/app/src/main/res/layout/activity_page_main.xml" value="0.2" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/activity_rentmybicycle.xml" value="0.2" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/activity_selectbicycle.xml" value="0.1" />
         <entry key="..\:/andr_project/app/src/main/res/layout/activity_sign_u.xml" value="0.1" />
-        <entry key="..\:/andr_project/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/customlistbicycles.xml" value="0.1" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/customlistbookabicycle.xml" value="0.1" />
+        <entry key="..\:/andr_project/app/src/main/res/layout/customlistbookacar.xml" value="0.1" />
       </map>
     </option>
   </component>
